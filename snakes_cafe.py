@@ -26,7 +26,7 @@ for section in menu.keys():
 
 print(new_line + "*" * 35, new_line + "** What would you like to order? **" + new_line + "*" * 35)
 
-user_input = input("> ")
+user_input = input("> ").title()
 
 
 def add_to_order(user_input):
@@ -40,4 +40,4 @@ def add_to_order(user_input):
 
 while user_input != "quit":
     add_to_order(user_input)
-    user_input = input("> ")
+    user_input = input("> ").title()
