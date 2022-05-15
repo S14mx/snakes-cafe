@@ -35,10 +35,8 @@ def add_to_order(user_input):
             menu[section][user_input] += 1
             print(f"** {menu[section][user_input]} {'order' if menu[section][user_input] == 1 else 'orders'} of {user_input} {'has' if menu[section][user_input] == 1 else 'have' } been added to your meal **")
             break
-        else:
-            print(f"Sorry, we dont have {user_input} on the menu")
-            break
-
+    else:
+        print(f"Sorry, we dont have {user_input} on the menu")
 
 while user_input != "quit":
     add_to_order(user_input)

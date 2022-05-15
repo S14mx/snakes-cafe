@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c27e2b3c-c6d9-4d06-ba29-6456d594df8a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/snakes-cafe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/snakes-cafe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snakes_cafe.py" beforeDir="false" afterPath="$PROJECT_DIR$/snakes_cafe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +48,7 @@
       <workItem from="1652566093207" duration="734000" />
       <workItem from="1652566844499" duration="704000" />
       <workItem from="1652568097109" duration="15447000" />
+      <workItem from="1652608214669" duration="1446000" />
     </task>
     <servers />
   </component>
