@@ -48,7 +48,7 @@ def add_to_order(user_input):
         print(f"** We dont have {user_input} on the menu but we will make it happen! **")
 
 
-while user_input != "quit":
+while user_input != "Quit":
     add_to_order(user_input)
     print("Your total order is:")
     for item in order:
